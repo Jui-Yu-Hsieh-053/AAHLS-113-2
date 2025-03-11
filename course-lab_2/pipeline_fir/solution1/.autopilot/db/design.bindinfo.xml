@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BindInfo>
+	<BindNode BINDTYPE="op" DISPLAY="bind_op icmp" ID="" IMPL="auto" LATENCY="0" OPTYPE="icmp" PRAGMA="" RTLNAME="icmp_ln33_fu_66_p2" SOURCE="pipeline_example_fir/FIR.cpp:33" VARIABLE="icmp_ln33" MODULE="fir_Pipeline_TDL" LOOP="TDL" BUNDLEDNAME="" DSP="0" BRAM="0" URAM="0"/>
+	<BindNode BINDTYPE="op" DISPLAY="bind_op add" ID="" IMPL="fabric" LATENCY="0" OPTYPE="add" PRAGMA="" RTLNAME="add_ln33_fu_72_p2" SOURCE="pipeline_example_fir/FIR.cpp:33" VARIABLE="add_ln33" MODULE="fir_Pipeline_TDL" LOOP="TDL" BUNDLEDNAME="" DSP="0" BRAM="0" URAM="0"/>
+	<BindNode BINDTYPE="op" DISPLAY="bind_op mul" ID="" IMPL="auto" LATENCY="0" OPTYPE="mul" PRAGMA="" RTLNAME="mul_11s_32s_32_1_1_U2" SOURCE="pipeline_example_fir/FIR.cpp:38" VARIABLE="mul_ln38" MODULE="fir" LOOP="MAC" BUNDLEDNAME="" DSP="2" BRAM="0" URAM="0"/>
+	<BindNode BINDTYPE="op" DISPLAY="bind_op add" ID="" IMPL="fabric" LATENCY="0" OPTYPE="add" PRAGMA="" RTLNAME="acc_1_fu_155_p2" SOURCE="pipeline_example_fir/FIR.cpp:38" VARIABLE="acc_1" MODULE="fir" LOOP="MAC" BUNDLEDNAME="" DSP="0" BRAM="0" URAM="0"/>
+	<BindNode BINDTYPE="op" DISPLAY="bind_op add" ID="" IMPL="fabric" LATENCY="0" OPTYPE="add" PRAGMA="" RTLNAME="add_ln36_fu_138_p2" SOURCE="pipeline_example_fir/FIR.cpp:36" VARIABLE="add_ln36" MODULE="fir" LOOP="MAC" BUNDLEDNAME="" DSP="0" BRAM="0" URAM="0"/>
+	<BindNode BINDTYPE="storage" DISPLAY="bind_storage ram_s2p" ID="" IMPL="auto" LATENCY="1" OPTYPE="ram_s2p" PRAGMA="" RTLNAME="shift_reg_U" SOURCE="" VARIABLE="shift_reg" MODULE="fir" LOOP="" BUNDLEDNAME="" DSP="0" BRAM="0" URAM="0"/>
+	<BindNode BINDTYPE="storage" DISPLAY="bind_storage rom_1p" ID="" IMPL="auto" LATENCY="1" OPTYPE="rom_1p" PRAGMA="" RTLNAME="fir_int_int_c_U" SOURCE="" VARIABLE="fir_int_int_c" MODULE="fir" LOOP="" BUNDLEDNAME="" DSP="0" BRAM="0" URAM="0"/>
+</BindInfo>

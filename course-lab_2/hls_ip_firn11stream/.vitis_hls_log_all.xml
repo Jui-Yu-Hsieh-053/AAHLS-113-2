@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vivadoHLSLog:LogRoot xmlns:vivadoHLSLog="www.xilinx.com/vivadoHLSLog">
+  <errorLogs>
+    <logs>
+      <synLog/>
+    </logs>
+  </errorLogs>
+  <warningLogs>
+    <logs>
+      <synLog>
+        <logs message="WARNING: [RTGEN 206-101] Design contains AXI ports. Reset is fixed to synchronous and active low." projectName="hls_ip_firn11stream" solutionName="solution1" date="2025-03-02T09:02:53.844-0500" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Register 'an32ShiftReg_0' is power-on initialization." projectName="hls_ip_firn11stream" solutionName="solution1" date="2025-03-02T09:02:53.500-0500" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Register 'an32ShiftReg_1' is power-on initialization." projectName="hls_ip_firn11stream" solutionName="solution1" date="2025-03-02T09:02:53.483-0500" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Register 'an32ShiftReg_2' is power-on initialization." projectName="hls_ip_firn11stream" solutionName="solution1" date="2025-03-02T09:02:53.468-0500" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Register 'an32ShiftReg_3' is power-on initialization." projectName="hls_ip_firn11stream" solutionName="solution1" date="2025-03-02T09:02:53.451-0500" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Register 'an32ShiftReg_4' is power-on initialization." projectName="hls_ip_firn11stream" solutionName="solution1" date="2025-03-02T09:02:53.434-0500" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Register 'an32ShiftReg_5' is power-on initialization." projectName="hls_ip_firn11stream" solutionName="solution1" date="2025-03-02T09:02:53.425-0500" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Register 'an32ShiftReg_6' is power-on initialization." projectName="hls_ip_firn11stream" solutionName="solution1" date="2025-03-02T09:02:53.396-0500" type="Warning"/>
+      </synLog>
+    </logs>
+  </warningLogs>
+</vivadoHLSLog:LogRoot>

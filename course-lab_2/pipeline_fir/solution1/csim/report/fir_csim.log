@@ -1,0 +1,18 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling ../../../../pipeline_example_fir/tb.cpp in debug mode
+   Compiling ../../../../pipeline_example_fir/FIR.cpp in debug mode
+   Generating csim.exe
+Input: 1, Output: 53
+Input: 2, Output: 106
+Input: 3, Output: 68
+Input: 4, Output: 30
+Input: 5, Output: 305
+Input: 6, Output: 1080
+Input: 7, Output: 2168
+Input: 8, Output: 3256
+Input: 9, Output: 4253
+Input: 10, Output: 5250
+Input: 11, Output: 6299
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************
