@@ -1,0 +1,92 @@
+Sun May 11 11:58:18 2025: Server was asked to start on port: '44445'
+Sun May 11 11:58:18 2025: Server is using token UUID: 'cc3dba83-a0b3-495c-b144-9cc674af3b0a'
+Sun May 11 11:58:18 2025: Attempting to start server on port '44445'
+Sun May 11 11:58:18 2025: XRC main fifo: created main fifo '/tmp/xrcmaincc3dba83-a0b3-495c-b144-9cc674af3b0a', fd read = 11
+Sun May 11 11:58:18 2025: Running Rule Check Server
+Sun May 11 11:58:18 2025: Version 1.6.1
+Sun May 11 11:58:19 2025: Rule Check Server: Accepted socket connection from client
+Sun May 11 11:58:20 2025: EXCHANGE_TOKEN received, server token: cc3dba83-a0b3-495c-b144-9cc674af3b0a, passed token: cc3dba83-a0b3-495c-b144-9cc674af3b0a
+Sun May 11 12:04:56 2025: SESSION_MGR: creating session with session uuid: '461f3700-0647-4688-8151-f82787536522' and name 'Emulation-SW'
+Sun May 11 12:05:07 2025: Rule Check Server: Accepted socket connection from client
+Sun May 11 12:05:22 2025: SESSION_MGR: closing session for UUID '461f3700-0647-4688-8151-f82787536522' with name 'Emulation-SW'
+Sun May 11 12:07:01 2025: SESSION_MGR: creating session with session uuid: 'a74fabc0-e60d-4e2c-a2b2-d9420ddce8d9' and name 'Emulation-SW'
+Sun May 11 12:07:02 2025: SESSION_MGR: creating session with session uuid: 'fe444148-9a5e-414b-9fcb-b5e2c0089e8f' and name 'Emulation-SW'
+Sun May 11 12:07:02 2025: SESSION_MGR: closing session for UUID 'a74fabc0-e60d-4e2c-a2b2-d9420ddce8d9' with name 'Emulation-SW'
+Sun May 11 12:07:13 2025: Rule Check Server: Accepted socket connection from client
+Sun May 11 12:07:18 2025: SESSION_MGR: closing session for UUID 'fe444148-9a5e-414b-9fcb-b5e2c0089e8f' with name 'Emulation-SW'
+Sun May 11 12:09:00 2025: SESSION_MGR: creating session with session uuid: 'dafd0e0e-4af8-467b-8795-bbea765bf2ae' and name 'Emulation-SW'
+Sun May 11 12:09:02 2025: SESSION_MGR: closing session for UUID 'dafd0e0e-4af8-467b-8795-bbea765bf2ae' with name 'Emulation-SW'
+Sun May 11 12:09:09 2025: SESSION_MGR: creating session with session uuid: 'c08a4096-65a3-4f0f-99fd-a48e9ab5e304' and name 'Emulation-SW'
+Sun May 11 12:09:10 2025: SESSION_MGR: closing session for UUID 'c08a4096-65a3-4f0f-99fd-a48e9ab5e304' with name 'Emulation-SW'
+Sun May 11 12:09:15 2025: SESSION_MGR: creating session with session uuid: '7f1ba48b-5ed4-434b-a415-78837a69f9c5' and name 'Emulation-SW'
+Sun May 11 12:09:16 2025: SESSION_MGR: closing session for UUID '7f1ba48b-5ed4-434b-a415-78837a69f9c5' with name 'Emulation-SW'
+Sun May 11 12:10:05 2025: SESSION_MGR: creating session with session uuid: '8faca4a1-7f7c-4c4f-8721-e92e078fb005' and name 'Emulation-SW'
+Sun May 11 12:10:06 2025: SESSION_MGR: closing session for UUID '8faca4a1-7f7c-4c4f-8721-e92e078fb005' with name 'Emulation-SW'
+Sun May 11 12:10:12 2025: SESSION_MGR: creating session with session uuid: '5852f911-c602-475d-b207-520b6574648d' and name 'Emulation-SW'
+Sun May 11 12:10:13 2025: SESSION_MGR: closing session for UUID '5852f911-c602-475d-b207-520b6574648d' with name 'Emulation-SW'
+Sun May 11 12:12:03 2025: SESSION_MGR: creating session with session uuid: 'ccfec15e-a0fb-4c75-a81d-b13947c0d667' and name 'Emulation-SW'
+Sun May 11 12:12:04 2025: SESSION_MGR: closing session for UUID 'ccfec15e-a0fb-4c75-a81d-b13947c0d667' with name 'Emulation-SW'
+Sun May 11 12:12:10 2025: SESSION_MGR: creating session with session uuid: '96dba795-f068-45b0-ab88-9a5e96fb7731' and name 'Emulation-SW'
+Sun May 11 12:12:11 2025: SESSION_MGR: closing session for UUID '96dba795-f068-45b0-ab88-9a5e96fb7731' with name 'Emulation-SW'
+Sun May 11 12:13:01 2025: SESSION_MGR: creating session with session uuid: '6b75f642-608e-4d01-b370-50ba218c01f7' and name 'Emulation-SW'
+Sun May 11 12:13:03 2025: SESSION_MGR: closing session for UUID '6b75f642-608e-4d01-b370-50ba218c01f7' with name 'Emulation-SW'
+Sun May 11 12:32:12 2025: SESSION_MGR: creating session with session uuid: '5ac9e22c-b8d2-46c8-b1a2-775d73828f10' and name 'Emulation-SW'
+Sun May 11 12:32:13 2025: SESSION_MGR: closing session for UUID '5ac9e22c-b8d2-46c8-b1a2-775d73828f10' with name 'Emulation-SW'
+Sun May 11 12:32:21 2025: SESSION_MGR: creating session with session uuid: 'b627a4cb-a3f2-4bf1-add1-c8cfb696546b' and name 'Emulation-SW'
+Sun May 11 12:32:21 2025: SESSION_MGR: creating session with session uuid: '61dd9fdc-bc7b-4be8-ac8b-8003a5202de2' and name 'Emulation-SW'
+Sun May 11 12:32:22 2025: SESSION_MGR: closing session for UUID 'b627a4cb-a3f2-4bf1-add1-c8cfb696546b' with name 'Emulation-SW'
+Sun May 11 12:32:22 2025: SESSION_MGR: creating session with session uuid: '0e93f54d-b546-4f99-8e42-1f33178e0c78' and name 'Emulation-SW'
+Sun May 11 12:32:22 2025: SESSION_MGR: closing session for UUID '61dd9fdc-bc7b-4be8-ac8b-8003a5202de2' with name 'Emulation-SW'
+Sun May 11 12:32:22 2025: SESSION_MGR: closing session for UUID '0e93f54d-b546-4f99-8e42-1f33178e0c78' with name 'Emulation-SW'
+Sun May 11 12:40:19 2025: SESSION_MGR: creating session with session uuid: 'f0608d68-6884-4bce-bf49-62518b81de55' and name 'SystemDebugger_vts_Opt1Baseline_system_vts_systolic_array'
+Sun May 11 12:40:20 2025: SESSION_MGR: closing session for UUID 'f0608d68-6884-4bce-bf49-62518b81de55' with name 'SystemDebugger_vts_Opt1Baseline_system_vts_systolic_array'
+Sun May 11 12:41:38 2025: SESSION_MGR: creating session with session uuid: 'a381646c-a5d1-4e6d-a51d-2ddd25470d0d' and name 'SystemDebugger_vts_Opt1Baseline_system_vts_systolic_array'
+Sun May 11 12:41:38 2025: SESSION_MGR: closing session for UUID 'a381646c-a5d1-4e6d-a51d-2ddd25470d0d' with name 'SystemDebugger_vts_Opt1Baseline_system_vts_systolic_array'
+Sun May 11 12:42:08 2025: SESSION_MGR: creating session with session uuid: '633becfa-f4a8-4617-b686-7e7c79a078d7' and name 'SystemDebugger_vts_Opt1Baseline_system_vts_systolic_array'
+Sun May 11 12:42:08 2025: SESSION_MGR: closing session for UUID '633becfa-f4a8-4617-b686-7e7c79a078d7' with name 'SystemDebugger_vts_Opt1Baseline_system_vts_systolic_array'
+Sun May 11 12:47:06 2025: SESSION_MGR: creating session with session uuid: '5ec574cd-2789-45f6-9536-e22be20e4dc1' and name 'SystemDebugger_vts_Opt1Baseline_system_vts_systolic_array'
+Sun May 11 12:47:07 2025: SESSION_MGR: closing session for UUID '5ec574cd-2789-45f6-9536-e22be20e4dc1' with name 'SystemDebugger_vts_Opt1Baseline_system_vts_systolic_array'
+Sun May 11 12:49:03 2025: SESSION_MGR: creating session with session uuid: 'f24766be-b930-4e7d-8601-6156cdade5c7' and name 'SystemDebugger_vts_Opt1Baseline_system_vts_systolic_array'
+Sun May 11 12:49:04 2025: SESSION_MGR: closing session for UUID 'f24766be-b930-4e7d-8601-6156cdade5c7' with name 'SystemDebugger_vts_Opt1Baseline_system_vts_systolic_array'
+Sun May 11 12:49:33 2025: SESSION_MGR: creating session with session uuid: '31f445cf-c562-4ce1-9c24-078d8421b7e8' and name 'Emulation-SW'
+Sun May 11 12:49:33 2025: SESSION_MGR: closing session for UUID '31f445cf-c562-4ce1-9c24-078d8421b7e8' with name 'Emulation-SW'
+Sun May 11 12:49:37 2025: SESSION_MGR: creating session with session uuid: 'c455ade5-692a-4a47-8cae-5bae919c2a0c' and name 'Emulation-SW'
+Sun May 11 12:49:37 2025: SESSION_MGR: creating session with session uuid: '343f0a0d-22c1-4034-b86c-c76aabab4ee6' and name 'Emulation-SW'
+Sun May 11 12:49:38 2025: SESSION_MGR: closing session for UUID 'c455ade5-692a-4a47-8cae-5bae919c2a0c' with name 'Emulation-SW'
+Sun May 11 12:49:38 2025: SESSION_MGR: closing session for UUID '343f0a0d-22c1-4034-b86c-c76aabab4ee6' with name 'Emulation-SW'
+Sun May 11 12:49:41 2025: SESSION_MGR: creating session with session uuid: '1b01ff2a-4445-4e12-9646-e2008d75c466' and name 'Emulation-SW'
+Sun May 11 12:49:42 2025: SESSION_MGR: closing session for UUID '1b01ff2a-4445-4e12-9646-e2008d75c466' with name 'Emulation-SW'
+Sun May 11 12:49:49 2025: SESSION_MGR: creating session with session uuid: 'b3434068-fd45-4931-91d1-33a66f131257' and name 'Emulation-SW'
+Sun May 11 12:49:49 2025: SESSION_MGR: creating session with session uuid: 'c06ea36c-74db-47b7-8079-66785a9a3680' and name 'Emulation-SW'
+Sun May 11 12:49:49 2025: SESSION_MGR: creating session with session uuid: '348ce5e1-95f6-4b2e-88d5-3e4fcc0418f6' and name 'Emulation-SW'
+Sun May 11 12:49:50 2025: SESSION_MGR: closing session for UUID 'b3434068-fd45-4931-91d1-33a66f131257' with name 'Emulation-SW'
+Sun May 11 12:49:50 2025: SESSION_MGR: closing session for UUID 'c06ea36c-74db-47b7-8079-66785a9a3680' with name 'Emulation-SW'
+Sun May 11 12:49:50 2025: SESSION_MGR: closing session for UUID '348ce5e1-95f6-4b2e-88d5-3e4fcc0418f6' with name 'Emulation-SW'
+Sun May 11 12:50:45 2025: SESSION_MGR: creating session with session uuid: '3bea50ad-c556-4de2-bf1d-a5ca149193a5' and name 'SystemDebugger_vts_systolic_array_system_vts_systolic_array'
+Sun May 11 12:50:47 2025: SESSION_MGR: closing session for UUID '3bea50ad-c556-4de2-bf1d-a5ca149193a5' with name 'SystemDebugger_vts_systolic_array_system_vts_systolic_array'
+Sun May 11 12:54:31 2025: SESSION_MGR: creating session with session uuid: 'da70c12a-7069-4c14-b850-e51c24edf834' and name 'SystemDebugger_vts_systolic_array_system_vts_systolic_array'
+Sun May 11 12:54:32 2025: SESSION_MGR: closing session for UUID 'da70c12a-7069-4c14-b850-e51c24edf834' with name 'SystemDebugger_vts_systolic_array_system_vts_systolic_array'
+Sun May 11 12:57:17 2025: SESSION_MGR: creating session with session uuid: '4261484c-c7fa-4f76-8ddc-24b2c3fb8725' and name 'SystemDebugger_vts_systolic_array_system_vts_systolic_array'
+Sun May 11 12:57:18 2025: SESSION_MGR: closing session for UUID '4261484c-c7fa-4f76-8ddc-24b2c3fb8725' with name 'SystemDebugger_vts_systolic_array_system_vts_systolic_array'
+Sun May 11 13:01:26 2025: SESSION_MGR: creating session with session uuid: 'c9b1f6e9-21ba-4559-bea4-60e6a9364968' and name 'SystemDebugger_vts_systolic_array_system_vts_systolic_array'
+Sun May 11 13:01:28 2025: SESSION_MGR: closing session for UUID 'c9b1f6e9-21ba-4559-bea4-60e6a9364968' with name 'SystemDebugger_vts_systolic_array_system_vts_systolic_array'
+Sun May 11 13:07:25 2025: SESSION_MGR: creating session with session uuid: 'a513216a-b3b9-4b83-ad40-4e3962a0baf2' and name 'Hardware'
+Sun May 11 13:07:36 2025: Rule Check Server: Accepted socket connection from client
+Sun May 11 13:07:47 2025: Rule Check Server: Accepted socket connection from client
+Sun May 11 13:08:26 2025: SESSION_MGR: closing session for UUID 'a513216a-b3b9-4b83-ad40-4e3962a0baf2' with name 'Hardware'
+Sun May 11 13:08:46 2025: SESSION_MGR: creating session with session uuid: '3248aeaa-a900-4535-aa7c-be381a682af2' and name 'Hardware'
+Sun May 11 13:08:47 2025: SESSION_MGR: creating session with session uuid: '13dce1df-0ba7-4cc4-98a4-2c1ed8620509' and name 'Hardware'
+Sun May 11 13:08:47 2025: SESSION_MGR: closing session for UUID '3248aeaa-a900-4535-aa7c-be381a682af2' with name 'Hardware'
+Sun May 11 13:08:58 2025: Rule Check Server: Accepted socket connection from client
+Sun May 11 13:09:01 2025: Rule Check Server: Accepted socket connection from client
+Sun May 11 13:09:21 2025: Rule Check Server: Accepted socket connection from client
+Sun May 11 13:14:30 2025: Rule Check Server: Accepted socket connection from client
+Sun May 11 13:47:33 2025: Rule Check Server: do_await_stop
+Sun May 11 13:47:33 2025: Rule Check Server: stopping mainFifo_
+Sun May 11 13:47:33 2025: On server, in MainFifo::stop() 
+Sun May 11 13:47:33 2025: XRC main fifo: do_read error code: Operation canceled
+XRC main fifo: bytes_transferred: 0
+Sun May 11 13:47:33 2025: SERVER: destructor for server bound to port 44445
+Sun May 11 13:47:33 2025: XRC main fifo: Good unlink of /tmp/xrcmaincc3dba83-a0b3-495c-b144-9cc674af3b0a
+Sun May 11 13:47:33 2025: Server exiting with status 0.
+Sun May 11 13:47:33 2025: Closing log file.

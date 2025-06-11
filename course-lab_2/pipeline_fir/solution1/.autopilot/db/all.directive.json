@@ -1,0 +1,35 @@
+{"sourceFile": [{
+      "name": "",
+      "directive": [
+        {
+          "functionName": "fir",
+          "label": "",
+          "functionLabel": "",
+          "id": "1",
+          "sourceFile": "\/home\/ubuntu\/course-lab_2\/pipeline_fir\/solution1\/directives.tcl",
+          "sourceLine": "6",
+          "pragma": {
+            "name": "TOP",
+            "option": [{
+                "name": "name",
+                "value": "fir"
+              }]
+          }
+        },
+        {
+          "functionName": "fir",
+          "label": "",
+          "functionLabel": "",
+          "id": "2",
+          "sourceFile": "\/home\/ubuntu\/course-lab_2\/pipeline_fir\/solution1\/csynth.tcl",
+          "sourceLine": "15",
+          "pragma": {
+            "name": "TOP",
+            "option": [{
+                "name": "name",
+                "value": "fir"
+              }]
+          }
+        }
+      ]
+    }]}
